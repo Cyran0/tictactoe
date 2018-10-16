@@ -13,4 +13,7 @@ Le jeu se termine sur un match nul si aucun des deux joueurs n'a gagné et que t
 
 ------------------------------------------
 
-Lance le fichier jeu.rb, et c'est parti !
+Deux fichiers.rb sont à ta disposition :
+
+- TicTacToe_with_class.rb a été structuré avec un modèle de classe, instancié et avec des variables de classes, mais il a encore des bugs !
+- Ti
