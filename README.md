@@ -12,6 +12,17 @@ Un joueur gagne le jeu en alignant en ligne, colonne ou diagonale trois position
 Le jeu se termine sur un match nul si aucun des deux joueurs n'a gagné et que toutes les positions du board sont prises.
 
 ------------------------------------------
+Contraintes : 
+
+1. Le programme est à deux joueurs.
+
+2. Le programme doit commencer en demandant le prénom des joueurs.
+
+3. Le programme doit afficher le plateau chaque tour (dans le terminal), puis demander au joueur auquel c'est le tour où ce dernier compte jouer.
+
+4. Si un joueur gagne, le programme doit annoncer qui a gagné.
+
+------------------------------------------
 
 Deux fichiers.rb sont à ta disposition :
 
