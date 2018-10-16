@@ -17,4 +17,5 @@ Deux fichiers.rb sont à ta disposition :
 
 - TicTacToe_with_class.rb a été structuré avec un modèle de classe, instancié et avec des variables de classes, mais il a encore des bugs !
 - TicTacToe_without_class.rb a été structuré par méthodes, sans classés et variables d'instances et de classes, mais il fonctionne !
+
 Enfin, le dossier TicTacToe Alt est un essai de TicTacToe sous rspec, en licence libre, et avec une arborescence "Production quality code" (incluant donc des sous-fichiers .rb dans la lib), c'est resté au stade d'essai mais on le laisse quand même.
